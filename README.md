@@ -1,6 +1,6 @@
 # 🐢 Hola, soy Giuliano Moro
 
-🎓 Próximo a graduarme como Técnico Universitario en Desarrollo de Software en la Universidad Nacional de Cuyo.
+🎓 Próximo a graduarme como Técnico Universitario en Desarrollo de Software en el Instituto Tecnológico Universitario de la Universidad Nacional de Cuyo
 
 💻 Me interesa el desarrollo backend, la automatización de procesos, la integración de inteligencia artificial y las tecnologías cloud.
 
@@ -41,8 +41,8 @@
 ### BarberApp-AR
 Plataforma SaaS orientada a barberías y peluquerías para la gestión de turnos, pagos y suscripciones.
 
-### Task Manager
-Aplicación web para gestión de tareas con autenticación de usuarios, base de datos SQL y despliegue automatizado mediante CI/CD.
+### TarDia
+Plataforma SaaS para despliegue y administración de bots, diseñada con enfoque multi-tenant, automatización de procesos e integración de servicios externos.
 
 ### Autódromo Virtual
 Sistema de reservas para un autódromo virtual desarrollado como proyecto académico.
